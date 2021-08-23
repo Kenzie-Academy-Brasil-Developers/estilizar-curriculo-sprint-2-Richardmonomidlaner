@@ -1,71 +1,71 @@
 .clear {
-	clear: both;
+  clear: both;
 }
 
 #headshot {
-	width: 12.5%;
-	float: left;
-	margin-right: 50px;
-  margin-left:80px;
+  width: 12.5%;
+  float: left;
+  margin-right: 50px;
+  margin-left: 80px;
 }
 
 #name {
-	float: left;
-  font-size:21px;
-
+  float: left;
+  font-size: 21px;
 }
 
 #contactDetails {
-	float: right;
-  background-color:white;
+  float: right;
+  background-color: white;
   text-decoration: none;
-  color:#181818;
-  margin-right:100px;
+  color: #181818;
+  margin-right: 100px;
 }
-#linhahorizontal1{
-  width:1100px;
+#linhahorizontal1 {
+  width: 1100px;
   border: 2px solid;
-  color:#cf8a05;
-  margin-left:50px
+  color: #cf8a05;
+  margin-left: 50px;
 }
 
-  #linhahorizontal2{
-  width:1060px;
-  border:1px solid;
-  color:#dedede;
-  margin-left:100px;
+#linhahorizontal2 {
+  width: 1060px;
+  border: 1px solid;
+  color: #dedede;
+  margin-left: 100px;
 }
 
-#linhahorizontal3{
-  width:1060px;
-  border:1px solid;
-  color:#dedede;
-  margin-left:100px;
+#linhahorizontal3 {
+  width: 1060px;
+  border: 1px solid;
+  color: #dedede;
+  margin-left: 100px;
 }
 
-#linhahorizontal4{
-  width:1060px;
-  border:1px solid;
-  color:#dedede;
-  margin-left:100px;
+#linhahorizontal4 {
+  width: 1060px;
+  border: 1px solid;
+  color: #dedede;
+  margin-left: 100px;
 }
 
 .sectionTitle {
-	float: left;
-  font-family:Lato;
-  font-size:23px;
-	width: 25%;
-  color:#cf8a05;
-  font-style:italic;
-  margin-left:120px;
+  float: left;
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: normal;
+  width: 25%;
+  color: #cf8a05;
+  font-style: italic;
+  margin-left: 120px;
 }
-#keyskilloperate{
-  word-spacing:0px;
+#keyskilloperate {
+  word-spacing: 0px;
 }
 
 .sectionContent {
-	float: left;
-	width:50.0%;
-  margin-left:10px;
-  color:#444444;
+  float: left;
+  width: 50%;
+  margin-left: 10px;
+  color: #444444;
 }
